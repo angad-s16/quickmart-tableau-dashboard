@@ -1,7 +1,6 @@
-# quickmart-tableau-dashboard
+# QuickMart Tableau Dashboard
 Practicing Tableau dashboard built on a Mini QuickMart dataset
 
-# QuickMart Tableau Dashboard
 
 ## Objective
 Build a quick performance dashboard for an Instamart-like dataset (QuickMart).
